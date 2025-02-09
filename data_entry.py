@@ -6,12 +6,10 @@ date_format = "%d-%m-%Y"
 CATEGORIES = {'I': 'Income' , 'E': 'Expense'}
 
 
-def get_date(prompt , read_default_date=False):
+def get_date(prompt):
     str_date = input(prompt)
-
-    if read_default_date and not str_date:
+    if not str_date:
         return datetime.today().strftime(date_format)
-    
     try:
         valid_date = datetime.strptime(str_date , date_format)
         return valid_date.strftime(date_format)
@@ -40,4 +38,5 @@ def get_category():
     
 
 def get_description():
-    description = input("Enter description (optional) : ")
+    description = str(input("Enter description (optional) : "))
+    return description
