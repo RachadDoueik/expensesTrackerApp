@@ -1,4 +1,21 @@
 date,amount,category,description
-09-02-2025,150.0,Income,my first income
-09-02-2025,120.0,Expense,my first expense
-09-02-2025,1000.0,Income,freelance job
+01-02-2024,150,Food,Grocery shopping
+02-02-2024,75,Transport,Bus pass
+03-02-2024,200,Rent,Monthly apartment rent
+04-02-2024,50,Entertainment,Cinema tickets
+05-02-2024,90,Shopping,New clothes
+06-02-2024,40,Health,Pharmacy purchase
+07-02-2024,120,Food,Restaurant dinner
+08-02-2024,30,Transport,Taxi ride
+09-02-2024,180,Salary,Freelance payment
+10-02-2024,60,Utilities,Electricity bill
+11-02-2024,110,Food,Grocery shopping
+12-02-2024,45,Entertainment,Streaming service subscription
+13-02-2024,85,Shopping,New shoes
+14-02-2024,25,Health,Gym session
+15-02-2024,95,Utilities,Internet bill
+16-02-2024,130,Food,Dining out
+17-02-2024,55,Education,Online course
+18-02-2024,100,Transport,Train ticket
+19-02-2024,160,Rent,Shared apartment rent
+20-02-2024,70,Entertainment,Concert ticket
